@@ -8,6 +8,8 @@ Art gallery system is an online shopping site where customers can purchase beaut
 ![Screenshot (1661)](https://user-images.githubusercontent.com/56502606/121811411-fc428f00-cc81-11eb-88ee-52441cd3e028.png)
 ![Screenshot (1662)](https://user-images.githubusercontent.com/56502606/121811413-fcdb2580-cc81-11eb-93dc-9a0811debeac.png)
 ![Screenshot (1663)](https://user-images.githubusercontent.com/56502606/121811432-0c5a6e80-cc82-11eb-84e1-0fffee327eea.png)
+
+OUTPUT
 ![Screenshot (1664)](https://user-images.githubusercontent.com/56502606/121811434-0d8b9b80-cc82-11eb-9335-3e7d610bf04a.png)
 ![Screenshot (1665)](https://user-images.githubusercontent.com/56502606/121811435-0e243200-cc82-11eb-97e7-16d7380926c9.png)
 ![Screenshot (1666)](https://user-images.githubusercontent.com/56502606/121811436-0ebcc880-cc82-11eb-836b-396d1cdeacfe.png)
